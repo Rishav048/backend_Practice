@@ -15,12 +15,49 @@
       "place": "Visakhapatnam",
       "gender": "Male"
     },
+
     {
-      "id": 3,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
+      "id": 2,
+      "name": "Banku",
+      "age": 35,
+      "place": "Delhi",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Cherry",
+      "age": 89,
+      "place": "Bokaro",
+      "gender": "Male"
+    },
+
+    {
+      "id": 5,
+      "name": "Don",
+      "age": 41,
+      "place": "Mumbai",
       "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "Golu",
+      "age": 14,
+      "place": "Indore",
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "name": "Motu",
+      "age": 65,
+      "place": "Dhanbad",
+      "gender": "Female"
+    },
+    {
+      "id": 8,
+      "name": "Gimmy",
+      "age": 7,
+      "place": "Bhui",
+      "gender": "Male"
     }
   ]
 }
